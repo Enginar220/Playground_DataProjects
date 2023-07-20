@@ -7,6 +7,6 @@ I will keep the notebooks that I have prepared throughout the playground episode
 
 
 
-**Playgroung_15**
-- Feature Imputation with a Heat Flux Dataset
-- https://www.kaggle.com/competitions/playground-series-s3e15
+**Playgroung_19**
+- Forecasting Mini-Course Sales
+- [https://www.kaggle.com/competitions/playground-series-s3e15](https://www.kaggle.com/competitions/playground-series-s3e19)https://www.kaggle.com/competitions/playground-series-s3e19
